@@ -11,3 +11,7 @@ A basic Javascript Guessing Game. Players press one of the buttons on the screen
 # Maximized View of the Screen
 
 ![Full Sized Screen](https://user-images.githubusercontent.com/86760183/202089732-0fe31b4d-48f5-4094-ba46-3039e8855269.PNG)
+
+#Hover effect over button
+
+![Hover effect](https://user-images.githubusercontent.com/86760183/202090571-37f0d437-9568-425c-a844-74f8ae56b891.PNG)
