@@ -8,3 +8,5 @@ A basic Javascript Guessing Game. Players press one of the buttons on the screen
 
 ![image](https://user-images.githubusercontent.com/86760183/202089544-eb61723c-2597-4fb7-911c-37d1cb61019b.png)
 
+# Maximized View of the Screen
+
